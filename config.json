@@ -1,0 +1,17 @@
+{
+  "llm": {
+    "model": "mistral:latest",
+    "temperature": 0.7,
+    "max_tokens": 500
+  },
+  "whatsapp": {
+    "check_interval": 2,
+    "response_delay": 1
+  },
+  "profile": {
+    "file": "profile.json"
+  },
+  "reminders": {
+    "file": "reminders.xlsx"
+  }
+}

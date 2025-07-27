@@ -102,19 +102,44 @@ class PersonalCoachingAssistant:
     def initialize_components(self):
         """Initialize all system components."""
         try:
-            # TODO: Initialize actual components
             self.logger.info("Initializing components...")
             
-            # Placeholder initialization
+            # Initialize WhatsApp driver
+            from whatsapp_driver import WhatsAppDriver
+            self.whatsapp_driver = WhatsAppDriver(headless=False)
             self.logger.info("✓ WhatsApp Driver initialized")
-            self.logger.info("✓ LLM Client initialized") 
-            self.logger.info("✓ Profile Manager initialized")
-            self.logger.info("✓ Knowledge Base initialized")
-            self.logger.info("✓ Intent Classifier initialized")
-            self.logger.info("✓ Task Manager initialized")
-            self.logger.info("✓ Logger Manager initialized")
             
+            # Initialize intent classifier
+            from intent_classifier import IntentClassifier
+            self.intent_classifier = IntentClassifier()
+            self.logger.info("✓ Intent Classifier initialized")
+            
+            # Initialize LLM client
+            from llm_client import LLMClient
+            self.llm_client = LLMClient()
+            self.logger.info("✓ LLM Client initialized")
+            
+            # Initialize conversation history tracking
+            self.conversation_history = []
+            self.logger.info("✓ Conversation History initialized")
+            
+            # Load profile from profile.json
+            profile_path = Path(self.config.get('profile', {}).get('file', 'profile.json'))
+            if profile_path.exists():
+                with open(profile_path, 'r', encoding='utf-8') as f:
+                    self.profile = json.load(f)
+                self.logger.info("✓ Profile loaded from profile.json")
+            else:
+                self.profile = {}
+                self.logger.warning("⚠️ Profile file not found - using empty profile")
+            
+            # TODO: Initialize additional components when ready
+            # self.knowledge_base = KnowledgeBase()
+            # self.task_manager = TaskManager()
+            
+            self.logger.info("✓ All core components initialized successfully")
             return True
+            
         except Exception as e:
             self.logger.error(f"Error initializing components: {e}")
             return False
@@ -133,33 +158,84 @@ class PersonalCoachingAssistant:
         try:
             self.logger.info(f"Processing message from {sender}: {message[:50]}...")
             
-            # TODO: Implement actual message processing pipeline
             # 1. Classify intent
-            # intent = self.intent_classifier.classify(message)
+            if not hasattr(self, 'intent_classifier'):
+                from intent_classifier import IntentClassifier
+                self.intent_classifier = IntentClassifier()
             
-            # 2. Retrieve relevant context from knowledge base
-            # context = self.knowledge_base.get_relevant_context(message)
+            intent_result = self.intent_classifier.classify_intent(message)
+            self.logger.info(f"Classified intent: {intent_result.intent.value} (confidence: {intent_result.confidence:.2f})")
             
-            # 3. Get personal profile information
-            # profile = self.profile_manager.get_profile()
+            # 2. Load personal profile
+            profile = getattr(self, 'profile', {})
             
-            # 4. Generate response using LLM
-            # response = self.llm_client.generate_response(message, context, profile, intent)
+            # 3. Get relevant principles from profile
+            relevant_principles = []
+            if 'principles' in profile:
+                # For now, use all principles - can be enhanced with RAG later
+                relevant_principles = profile['principles'][:3]  # Limit to top 3
             
-            # 5. Handle any tasks or reminders
-            # self.task_manager.process_message(message, response)
+            # 4. Build conversation history (simplified - last few exchanges)
+            conversation_history = getattr(self, 'conversation_history', [])
             
-            # 6. Log the interaction
-            # self.logger_manager.log_interaction(sender, message, response, intent)
+            # 5. Create coaching context
+            from llm_client import CoachingContext
+            context = CoachingContext(
+                user_message=message,
+                sender=sender,
+                intent=intent_result.intent,
+                confidence=intent_result.confidence,
+                personal_profile=profile,
+                conversation_history=conversation_history[-4:],  # Last 2 exchanges
+                relevant_principles=relevant_principles,
+                timestamp=datetime.now()
+            )
             
-            # Placeholder response
-            response = f"I received your message: '{message}'. This is a placeholder response. The full system is being built!"
+            # 6. Generate response using LLM
+            if not hasattr(self, 'llm_client'):
+                from llm_client import LLMClient
+                self.llm_client = LLMClient()
+            
+            response = self.llm_client.generate_response(context)
+            
+            # 7. Use fallback if LLM fails
+            if not response:
+                response = self.llm_client.generate_fallback_response(context)
+                self.logger.warning("Using fallback response due to LLM failure")
+            
+            # 8. Update conversation history
+            if not hasattr(self, 'conversation_history'):
+                self.conversation_history = []
+            
+            self.conversation_history.append({
+                'user': message,
+                'assistant': response,
+                'intent': intent_result.intent.value,
+                'timestamp': datetime.now().isoformat(),
+                'sender': sender
+            })
+            
+            # Keep only last 10 exchanges to manage memory
+            if len(self.conversation_history) > 10:
+                self.conversation_history = self.conversation_history[-10:]
+            
+            # 9. Handle any tasks or reminders (if message indicates scheduling need)
+            try:
+                self._handle_task_creation(message, response, intent_result, sender)
+            except AttributeError:
+                pass  # Method will be added later
+            
+            # 10. Log the interaction
+            try:
+                self._log_interaction(sender, message, response, intent_result)
+            except AttributeError:
+                pass  # Method will be added later
             
             return response
             
         except Exception as e:
             self.logger.error(f"Error processing message: {e}")
-            return "I encountered an error processing your message. Please try again."
+            return "I encountered an error processing your message. Please try again. If this continues, there might be a technical issue I need to resolve."
     
     def run(self):
         """Main execution loop."""
