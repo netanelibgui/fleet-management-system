@@ -8,10 +8,10 @@ A locally hosted personal coaching assistant powered by an LLM, designed to prov
 ---
 
 ## 📋 Project Foundation
-- [ ] Initialize Git repository and set up version control
-- [ ] Create Python virtual environment and requirements.txt
-- [ ] Create folder structure: main_loop.py, profile.json, embeddings/, logs/, etc.
-- [ ] Install Python dependencies: ollama, sentence-transformers, pandas, selenium
+- [x] Initialize Git repository and set up version control
+- [x] Create Python virtual environment and requirements.txt
+- [x] Create folder structure: main_loop.py, profile.json, embeddings/, logs/, etc.
+- [x] Install Python dependencies: ollama, sentence-transformers, pandas, selenium
 
 ---
 
