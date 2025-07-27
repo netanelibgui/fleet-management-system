@@ -16,11 +16,11 @@ A locally hosted personal coaching assistant powered by an LLM, designed to prov
 ---
 
 ## 🤖 Local LLM Setup
-- [ ] Research Ollama installation and model selection (Mistral/Phi-3/LLaMA)
-- [ ] Download and install Ollama on local machine
-- [ ] Download and test Mistral, Phi-3, or LLaMA models via Ollama
-- [ ] Create basic Python script to test LLM API connectivity
-- [ ] Design and test persistent system prompts for coaching behavior
+- [x] Research Ollama installation and model selection (Mistral/Phi-3/LLaMA)
+- [x] Download and install Ollama on local machine
+- [x] Download and test Mistral, Phi-3, or LLaMA models via Ollama
+- [x] Create basic Python script to test LLM API connectivity
+- [x] Design and test persistent system prompts for coaching behavior
 
 ---
 
