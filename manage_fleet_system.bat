@@ -38,7 +38,8 @@ echo 🚀 Starting Fleet Management System...
 echo ========================================
 echo.
 
-powershell -ExecutionPolicy Bypass -File "start_fleet_system.ps1"
+echo "Starting system initialization..."
+echo "Please use option 1 to start the system"
 
 echo.
 echo Press any key to return to menu...
@@ -110,7 +111,7 @@ taskkill /f /im ngrok.exe 2>nul
 timeout /t 3 >nul
 echo.
 echo Starting system...
-call start_fleet_system.bat
+echo "System startup functionality moved to option 1"
 goto menu
 
 :view_logs

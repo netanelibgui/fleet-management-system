@@ -9,13 +9,12 @@ Fleet Management System/
 ├── 📄 FINAL_PROJECT_STRUCTURE.md          # This file
 ├── 📄 SYSTEM_MANAGEMENT_GUIDE.md          # System management documentation
 │
-├── 🚀 start_fleet_system.bat              # Main startup script
-├── 🚀 start_fleet_system.ps1              # PowerShell startup script
+├── 🚀 manage_fleet_system.bat             # Main management script
 ├── ⚙️ manage_fleet_system.bat             # Management interface
 ├── 🔗 get_webhook_url.bat                 # Webhook URL utility
 ├── 🔧 setup_twilio_credentials.bat       # Twilio setup script
 │
-├── 📊 Large_Enhanced_Fleet_Report_20251018_230415.xlsx  # Main data file
+├── 📊 Large Enhanced Fleet.xlsx                        # Main data file
 │
 ├── 📁 src/                                # Core application code
 │   ├── 📁 core/                           # Business logic
@@ -73,8 +72,7 @@ Fleet Management System/
 - **`scripts/update_twilio_webhook.py`** - Webhook URL management
 
 ### Startup Scripts (5 files)
-- **`start_fleet_system.bat`** - Main automated startup
-- **`start_fleet_system.ps1`** - PowerShell startup script
+- **`manage_fleet_system.bat`** - Main management interface
 - **`manage_fleet_system.bat`** - Management interface
 - **`get_webhook_url.bat`** - Webhook URL utility
 - **`setup_twilio_credentials.bat`** - Twilio configuration

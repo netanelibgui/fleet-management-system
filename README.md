@@ -71,14 +71,14 @@ setup_twilio_credentials.bat
 ### 3. Start the System
 Use the main startup script:
 ```bash
-start_fleet_system.bat
+manage_fleet_system.bat
 ```
 
 ## 🚀 Quick Start Guide
 
 ### Starting the System
 
-The `start_fleet_system.bat` script provides a complete system initialization:
+The `manage_fleet_system.bat` script provides a complete system initialization:
 
 1. **Process Cleanup**: Terminates any existing Python/ngrok processes
 2. **ngrok Tunnel**: Starts ngrok to expose local server to internet
@@ -89,7 +89,7 @@ The `start_fleet_system.bat` script provides a complete system initialization:
 
 ### Manual Webhook Configuration
 
-When you run `start_fleet_system.bat`, you'll see:
+When you run `manage_fleet_system.bat`, you'll see:
 ```
 ========================================
    MANUAL TWILIO WEBHOOK UPDATE

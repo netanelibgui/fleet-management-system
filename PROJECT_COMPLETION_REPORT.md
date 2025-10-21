@@ -151,7 +151,7 @@ Fleet Management System/
 ├── reports/                      # Generated PDFs (50+ files)
 ├── logs/                         # System logs
 ├── docs/                         # Documentation (2 guides)
-├── start_fleet_system.bat        # Main startup script
+├── manage_fleet_system.bat       # Main management script
 ├── manage_fleet_system.bat       # Management interface
 ├── get_webhook_url.bat          # Webhook URL utility
 ├── setup_twilio_credentials.bat # Twilio setup

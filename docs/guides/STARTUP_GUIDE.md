@@ -6,7 +6,7 @@ This guide provides detailed instructions for starting and managing the Fleet Ma
 
 ### Option 1: Automated Startup (Recommended)
 ```bash
-start_fleet_system.bat
+manage_fleet_system.bat
 ```
 
 This single command will:
@@ -83,7 +83,7 @@ Overall Status: Ready to Start
 
 ### Automated Startup Process
 
-When you run `start_fleet_system.bat`, the system will:
+When you run `manage_fleet_system.bat`, the system will:
 
 #### Phase 1: Process Cleanup
 ```
@@ -254,7 +254,7 @@ The system automatically monitors:
 ## 🔄 Maintenance
 
 ### Daily Operations
-1. Start system: `start_fleet_system.bat`
+1. Start system: `manage_fleet_system.bat`
 2. Test with sample queries
 3. Monitor for any issues
 

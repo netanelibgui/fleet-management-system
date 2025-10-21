@@ -34,7 +34,7 @@ class ExcelSyncManager:
     def __init__(self):
         self.project_root = project_root
         self.data_dir = os.path.join(project_root, 'data')
-        self.main_excel_path = os.path.join(project_root, 'Large_Enhanced_Fleet_Report_20251018_230415.xlsx')
+        self.main_excel_path = os.path.join(project_root, 'Large Enhanced Fleet.xlsx')
         self.vehicle_catalog_path = os.path.join(self.data_dir, 'large_vehicle_catalog.json')
         self.fault_reports_path = os.path.join(self.data_dir, 'fault_reports.json')
         self.maintenance_records_path = os.path.join(self.data_dir, 'vehicles', 'maintenance_records.json')

@@ -48,7 +48,7 @@ echo.
 echo ✅ Setup completed! Now when you run the system, it will automatically update the webhook URL.
 echo.
 echo Next steps:
-echo 1. Run start_fleet_system.bat
+echo 1. Run manage_fleet_system.bat
 echo 2. The system will automatically update your Twilio webhook URL
 echo 3. No more manual copying needed!
 echo.

@@ -34,7 +34,7 @@ The Fleet Management System now includes comprehensive management tools for init
 
 ## 🚀 **Startup Scripts**
 
-### **1. Main Startup** (`start_fleet_system.bat`)
+### **1. Main Management** (`manage_fleet_system.bat`)
 - **Purpose**: Complete system initialization
 - **Process**:
   1. Check Python installation
@@ -96,7 +96,7 @@ The Fleet Management System now includes comprehensive management tools for init
 ### **1. First Time Setup**
 ```bash
 # Run the main startup script
-start_fleet_system.bat
+manage_fleet_system.bat
 ```
 
 ### **2. Data Updates**
@@ -219,7 +219,7 @@ manage_fleet_system.bat
 
 3. **Start System**:
    ```bash
-   start_fleet_system.bat
+   manage_fleet_system.bat
    ```
 
 4. **Verify Operation**:
