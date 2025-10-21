@@ -1,0 +1,43 @@
+{
+  "records": [
+    {
+      "id": "M000",
+      "license_plate": "",
+      "date": "",
+      "type": "",
+      "description": "",
+      "cost": 0.0,
+      "status": "",
+      "fault_type": "",
+      "fault_severity": "",
+      "repair_cost": 0.0,
+      "repair_days": 0
+    },
+    {
+      "id": "M000",
+      "license_plate": "",
+      "date": "",
+      "type": "",
+      "description": "",
+      "cost": 0.0,
+      "status": "",
+      "fault_type": "",
+      "fault_severity": "",
+      "repair_cost": 0.0,
+      "repair_days": 0
+    },
+    {
+      "id": "M000",
+      "license_plate": "",
+      "date": "",
+      "type": "",
+      "description": "",
+      "cost": 0.0,
+      "status": "",
+      "fault_type": "",
+      "fault_severity": "",
+      "repair_cost": 0.0,
+      "repair_days": 0
+    }
+  ]
+}

@@ -1,53 +1,0 @@
-?? Personal Training Assistant – Overview & Technical Specification
-?? Project Description
-This project is a locally hosted personal coaching assistant, powered by an LLM, designed to provide reflective conversations, behavioral analysis, motivational nudges, and tailored micro-actions — all through WhatsApp.
-It doesn’t aim to be a general chatbot — but a deeply personalized companion trained on your principles, tone, life context, and decision-making style.
-
-?? Project Objectives
-?? Core Goal
-To create a mental and behavioral coaching agent that helps the user navigate daily challenges, thought loops, and habits — using natural language and a personal knowledge base of values, rules, and voice.
-
-?? What Can This Agent Actually Do?
-CapabilityDescription?? Open DialogueUnderstands emotional or situational input like “I feel stuck” and responds with reflections, clarity, or micro-tasks.?? Intent ClassificationDetects whether the message is emotional, practical, reflective, or task-oriented — and routes accordingly.? Task GenerationSuggests small, focused actions based on situation + user profile.?? Principle RecallDynamically pulls personal rules or values in context (“What do I believe about this?”).?? Timed Follow-upSaves a reminder or action and triggers it later via WhatsApp.?? Daily/Weekly ReviewOptionally prompts for “How was your day?” — then tracks patterns across time.
-?? How It Works (Under the Hood)
-?? Local LLM (Mistral / Phi-3 / LLaMA)
-* Runs via Ollama or equivalent.
-* Uses a persistent system prompt to lock tone, behavior, and rules.
-* Supports a custom knowledge base for reasoning (via embeddings or context injection).
-?? Personal Guidelines & Identity (Profile)
-* Predefined by the user (you):
-o Communication style
-o Do's and don'ts
-o Decision-making principles
-o Trigger-based responses
-o Reflection templates and reframing phrases
-?? RAG-Based Reasoning
-* Every message triggers a query into your custom knowledge (via embedding search)
-* Resulting context is inserted into the LLM prompt
-* Output feels deeply “you”
-
-?? System Architecture
-text
-CopyEdit
-[WhatsApp Web] ? [LLM Coach (local)] ? [Personal Profile DB (Vectors)]
-                                        ?
-                                [Logic Router]
-                                        ?
-                      [Personalized Response + Micro-action]
-                                        ?
-                      [WhatsApp Message + Excel Logging]
-
-?? Example Use Cases
-User MessageAgent Response"I can’t get out of bed"“That’s the loop again, right? One small step. Just get up and splash water on your face. Nothing else.”"I’m annoyed I delayed this again"“Let’s call it what it is: avoidance out of fear. But you’ve broken this before. Want to walk through it together?”"Remind me this evening"Adds task to reminders.xlsx and sends a message at the set time"Give me something strong for today"Pulls a personal motivational quote or “anchor principle” from your values file
-?? Expandable Features
-* Sentiment/emotion detection per message
-* Time-sensitive behavior (different tone in the morning vs night)
-* Mood trend analysis based on chats
-* Weekly summaries of behavior patterns
-* Integration with journaling platforms or calendar apps
-* Custom "mindset snapshots" based on recurring topics
-
-?? Privacy & Control
-FeatureBenefit?? Local-only ExecutionNo cloud, no third parties, full control?? Manual Data AccessAll info stored in editable files (Excel/JSON)?? Open SourceEasy to audit and modify?? Self-UpdatableYou can adjust your own rules or personality profile at any time
-??? Project File Structure
-File/FolderPurposemain_loop.pyHandles WhatsApp input, invokes LLMprofile.jsonDefines personality, rules, tone, responsesembeddings/Vector-based personalized reflectionsreminders.xlsxReminder and micro-task schedulingwhatsapp_driver.pySends WhatsApp messages (via Selenium or API)logs/Archives of interactions, actions, feedback

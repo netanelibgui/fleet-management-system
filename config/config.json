@@ -1,0 +1,13 @@
+{
+  "whatsapp": {
+    "check_interval": 2,
+    "response_delay": 1
+  },
+  "reminders": {
+    "file": "reminders.xlsx"
+  },
+  "system": {
+    "language": "english",
+    "pattern_based": true
+  }
+}

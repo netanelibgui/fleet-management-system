@@ -1,0 +1,6604 @@
+{
+  "vehicles": [
+    {
+      "id": "V000",
+      "license_plate": "22-727-57",
+      "vin": "1HGBH41JXMN972937",
+      "make": "Renault",
+      "model": "Trafic",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה כהן",
+        "id": "D063",
+        "phone": "+972-59-7545954",
+        "email": "נועה.כהן@company.co.il",
+        "license_number": 82272484
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 196,
+        "drivetrain": "RWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "63-127-71",
+      "vin": "1HGBH41JXMN268995",
+      "make": "Mercedes",
+      "model": "C-Class",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני ישראלי",
+        "id": "D041",
+        "phone": "+972-53-9968029",
+        "email": "דני.ישראלי@company.co.il",
+        "license_number": 83930153
+      },
+      "specifications": {
+        "seating_capacity": 2,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 256,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "28-904-36",
+      "vin": "1HGBH41JXMN687324",
+      "make": "Infiniti",
+      "model": "Q70",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי ישראלי",
+        "id": "D048",
+        "phone": "+972-58-1911018",
+        "email": "אבי.ישראלי@company.co.il",
+        "license_number": 16410564
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 254,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "92-692-18",
+      "vin": "1HGBH41JXMN207989",
+      "make": "Toyota",
+      "model": "Highlander",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון לוי",
+        "id": "D065",
+        "phone": "+972-58-9103976",
+        "email": "אלון.לוי@company.co.il",
+        "license_number": 75246395
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 325,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "51-751-76",
+      "vin": "1HGBH41JXMN958253",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D068",
+        "phone": "+972-59-6260666",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 46096551
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 113,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "72-554-20",
+      "vin": "1HGBH41JXMN272740",
+      "make": "Suzuki",
+      "model": "Carry",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי רוזן",
+        "id": "D069",
+        "phone": "+972-58-7494251",
+        "email": "יוסי.רוזן@company.co.il",
+        "license_number": 37215620
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 174,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "95-707-54",
+      "vin": "1HGBH41JXMN105593",
+      "make": "Kia",
+      "model": "Carnival",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה לוי",
+        "id": "D072",
+        "phone": "+972-55-1300396",
+        "email": "נועה.לוי@company.co.il",
+        "license_number": 73155884
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 257,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "18-822-43",
+      "vin": "1HGBH41JXMN838397",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה רוזן",
+        "id": "D083",
+        "phone": "+972-50-4246798",
+        "email": "משה.רוזן@company.co.il",
+        "license_number": 82998620
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 118,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "24-334-94",
+      "vin": "1HGBH41JXMN765564",
+      "make": "Suzuki",
+      "model": "Baleno",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה גולדברג",
+        "id": "D021",
+        "phone": "+972-55-3193340",
+        "email": "נועה.גולדברג@company.co.il",
+        "license_number": 67198795
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 254,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "65-721-21",
+      "vin": "1HGBH41JXMN255709",
+      "make": "BMW",
+      "model": "7 Series",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי לוי",
+        "id": "D020",
+        "phone": "+972-50-7703269",
+        "email": "אבי.לוי@company.co.il",
+        "license_number": 48968551
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 359,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "33-302-22",
+      "vin": "1HGBH41JXMN756104",
+      "make": "Audi",
+      "model": "A4",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי ישראלי",
+        "id": "D019",
+        "phone": "+972-59-6068232",
+        "email": "אבי.ישראלי@company.co.il",
+        "license_number": 59589153
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 137,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "87-440-64",
+      "vin": "1HGBH41JXMN438346",
+      "make": "Infiniti",
+      "model": "Q70",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה רוזן",
+        "id": "D018",
+        "phone": "+972-52-6600445",
+        "email": "משה.רוזן@company.co.il",
+        "license_number": 86477521
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 251,
+        "drivetrain": "RWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "21-599-58",
+      "vin": "1HGBH41JXMN106691",
+      "make": "Subaru",
+      "model": "Impreza",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה רוזן",
+        "id": "D017",
+        "phone": "+972-51-3034040",
+        "email": "נועה.רוזן@company.co.il",
+        "license_number": 98557199
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 197,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "88-870-45",
+      "vin": "1HGBH41JXMN869205",
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון כהן",
+        "id": "D016",
+        "phone": "+972-53-1737487",
+        "email": "אלון.כהן@company.co.il",
+        "license_number": 74610710
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 207,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "63-371-56",
+      "vin": "1HGBH41JXMN466167",
+      "make": "Infiniti",
+      "model": "Q60",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה כהן",
+        "id": "D090",
+        "phone": "+972-59-4680257",
+        "email": "נועה.כהן@company.co.il",
+        "license_number": 92924974
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 167,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "92-336-49",
+      "vin": "1HGBH41JXMN661580",
+      "make": "Peugeot",
+      "model": "3008",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון ישראלי",
+        "id": "D014",
+        "phone": "+972-53-9432566",
+        "email": "אלון.ישראלי@company.co.il",
+        "license_number": 69162136
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 355,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "22-508-75",
+      "vin": "1HGBH41JXMN456497",
+      "make": "Volvo",
+      "model": "XC40",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון גולדברג",
+        "id": "D013",
+        "phone": "+972-55-1692480",
+        "email": "אלון.גולדברג@company.co.il",
+        "license_number": 96872741
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 205,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "34-153-49",
+      "vin": "1HGBH41JXMN363852",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה רוזן",
+        "id": "D012",
+        "phone": "+972-54-8715973",
+        "email": "שרה.רוזן@company.co.il",
+        "license_number": 42727068
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 355,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "76-167-63",
+      "vin": "1HGBH41JXMN904730",
+      "make": "Toyota",
+      "model": "Hilux",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון כהן",
+        "id": "D011",
+        "phone": "+972-51-1933739",
+        "email": "אלון.כהן@company.co.il",
+        "license_number": 57342948
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 235,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "36-755-82",
+      "vin": "1HGBH41JXMN150618",
+      "make": "Mercedes",
+      "model": "GLE",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D010",
+        "phone": "+972-54-1435619",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 75138662
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 345,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "56-212-54",
+      "vin": "1HGBH41JXMN254091",
+      "make": "Kia",
+      "model": "Sportage",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי רוזן",
+        "id": "D009",
+        "phone": "+972-54-4965328",
+        "email": "יוסי.רוזן@company.co.il",
+        "license_number": 13225432
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 140,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "64-756-87",
+      "vin": "1HGBH41JXMN752425",
+      "make": "Renault",
+      "model": "Kadjar",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי כהן",
+        "id": "D008",
+        "phone": "+972-55-9396013",
+        "email": "אבי.כהן@company.co.il",
+        "license_number": 39127797
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 172,
+        "drivetrain": "RWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "56-113-80",
+      "vin": "1HGBH41JXMN656512",
+      "make": "Renault",
+      "model": "Koleos",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל רוזן",
+        "id": "D007",
+        "phone": "+972-53-4796717",
+        "email": "רחל.רוזן@company.co.il",
+        "license_number": 79484798
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 297,
+        "drivetrain": "AWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "22-252-82",
+      "vin": "1HGBH41JXMN362822",
+      "make": "Mitsubishi",
+      "model": "ASX",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל ישראלי",
+        "id": "D006",
+        "phone": "+972-54-4179459",
+        "email": "רחל.ישראלי@company.co.il",
+        "license_number": 60414825
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 128,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "76-264-73",
+      "vin": "1HGBH41JXMN737618",
+      "make": "Mazda",
+      "model": "BT-50",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי ישראלי",
+        "id": "D028",
+        "phone": "+972-52-2122459",
+        "email": "אבי.ישראלי@company.co.il",
+        "license_number": 45606427
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 114,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "63-875-88",
+      "vin": "1HGBH41JXMN346495",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד רוזן",
+        "id": "D005",
+        "phone": "+972-56-8993524",
+        "email": "דוד.רוזן@company.co.il",
+        "license_number": 58426807
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 129,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "73-564-64",
+      "vin": "1HGBH41JXMN131266",
+      "make": "Audi",
+      "model": "A8",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל כהן",
+        "id": "D004",
+        "phone": "+972-56-6292969",
+        "email": "מיכל.כהן@company.co.il",
+        "license_number": 51888112
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 375,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "12-435-40",
+      "vin": "1HGBH41JXMN680513",
+      "make": "Isuzu",
+      "model": "FTR",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D002",
+        "phone": "+972-51-1292429",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 23015246
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 236,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "89-949-91",
+      "vin": "1HGBH41JXMN233201",
+      "make": "Mitsubishi",
+      "model": "ASX",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל ישראלי",
+        "id": "D001",
+        "phone": "+972-59-2166822",
+        "email": "מיכל.ישראלי@company.co.il",
+        "license_number": 70955071
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 353,
+        "drivetrain": "FWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "88-391-66",
+      "vin": "1HGBH41JXMN675613",
+      "make": "Renault",
+      "model": "Megane",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד לוי",
+        "id": "D003",
+        "phone": "+972-57-3339542",
+        "email": "דוד.לוי@company.co.il",
+        "license_number": 21341172
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 400,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "87-220-98",
+      "vin": "1HGBH41JXMN642906",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה כהן",
+        "id": "D211",
+        "phone": "+972-53-1464935",
+        "email": "נועה.כהן@company.co.il",
+        "license_number": 91109762
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 390,
+        "drivetrain": "RWD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "10-600-42",
+      "vin": "1HGBH41JXMN350322",
+      "make": "Mazda",
+      "model": "Mazda3",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון ישראלי",
+        "id": "D149",
+        "phone": "+972-51-9268240",
+        "email": "אלון.ישראלי@company.co.il",
+        "license_number": 78283651
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 269,
+        "drivetrain": "RWD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "76-294-39",
+      "vin": "1HGBH41JXMN257169",
+      "make": "Kia",
+      "model": "Sportage",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל רוזן",
+        "id": "D151",
+        "phone": "+972-51-3667541",
+        "email": "מיכל.רוזן@company.co.il",
+        "license_number": 54494269
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 234,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "41-351-17",
+      "vin": "1HGBH41JXMN930412",
+      "make": "Renault",
+      "model": "Megane",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה רוזן",
+        "id": "D152",
+        "phone": "+972-50-5054062",
+        "email": "נועה.רוזן@company.co.il",
+        "license_number": 40653439
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 143,
+        "drivetrain": "FWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "18-148-66",
+      "vin": "1HGBH41JXMN590220",
+      "make": "Mercedes",
+      "model": "A-Class",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה לוי",
+        "id": "D153",
+        "phone": "+972-56-3539199",
+        "email": "נועה.לוי@company.co.il",
+        "license_number": 41481082
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 192,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "38-937-40",
+      "vin": "1HGBH41JXMN477095",
+      "make": "BMW",
+      "model": "7 Series",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני לוי",
+        "id": "D154",
+        "phone": "+972-50-4838555",
+        "email": "דני.לוי@company.co.il",
+        "license_number": 88272917
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 111,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "17-731-35",
+      "vin": "1HGBH41JXMN507275",
+      "make": "Infiniti",
+      "model": "QX50",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל לוי",
+        "id": "D155",
+        "phone": "+972-50-7115126",
+        "email": "מיכל.לוי@company.co.il",
+        "license_number": 77696528
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 140,
+        "drivetrain": "RWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "31-249-23",
+      "vin": "1HGBH41JXMN589309",
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד כהן",
+        "id": "D156",
+        "phone": "+972-54-7547217",
+        "email": "דוד.כהן@company.co.il",
+        "license_number": 67147548
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 399,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "13-860-80",
+      "vin": "1HGBH41JXMN802360",
+      "make": "Renault",
+      "model": "Kadjar",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה גולדברג",
+        "id": "D157",
+        "phone": "+972-55-7408066",
+        "email": "נועה.גולדברג@company.co.il",
+        "license_number": 67304792
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 389,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "26-839-31",
+      "vin": "1HGBH41JXMN266780",
+      "make": "Peugeot",
+      "model": "Expert",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל לוי",
+        "id": "D158",
+        "phone": "+972-56-1197139",
+        "email": "רחל.לוי@company.co.il",
+        "license_number": 22813792
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 180,
+        "drivetrain": "FWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "29-215-34",
+      "vin": "1HGBH41JXMN248032",
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל ישראלי",
+        "id": "D159",
+        "phone": "+972-53-3975640",
+        "email": "רחל.ישראלי@company.co.il",
+        "license_number": 68140510
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 153,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "92-877-91",
+      "vin": "1HGBH41JXMN428549",
+      "make": "Infiniti",
+      "model": "QX80",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני כהן",
+        "id": "D219",
+        "phone": "+972-57-4397409",
+        "email": "דני.כהן@company.co.il",
+        "license_number": 40661012
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 259,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "65-597-36",
+      "vin": "1HGBH41JXMN812521",
+      "make": "Hyundai",
+      "model": "Kona",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני גולדברג",
+        "id": "D160",
+        "phone": "+972-59-6341087",
+        "email": "דני.גולדברג@company.co.il",
+        "license_number": 18056451
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 213,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "96-696-80",
+      "vin": "1HGBH41JXMN274964",
+      "make": "Renault",
+      "model": "Megane",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני רוזן",
+        "id": "D161",
+        "phone": "+972-55-9333169",
+        "email": "דני.רוזן@company.co.il",
+        "license_number": 51272110
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 140,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "87-402-30",
+      "vin": "1HGBH41JXMN918764",
+      "make": "Isuzu",
+      "model": "NPR",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד רוזן",
+        "id": "D162",
+        "phone": "+972-54-8557971",
+        "email": "דוד.רוזן@company.co.il",
+        "license_number": 98126871
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 152,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "48-494-15",
+      "vin": "1HGBH41JXMN400783",
+      "make": "Renault",
+      "model": "Clio",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה רוזן",
+        "id": "D163",
+        "phone": "+972-58-1348680",
+        "email": "משה.רוזן@company.co.il",
+        "license_number": 43581249
+      },
+      "specifications": {
+        "seating_capacity": 2,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 332,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "80-963-70",
+      "vin": "1HGBH41JXMN331215",
+      "make": "Subaru",
+      "model": "Legacy",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל גולדברג",
+        "id": "D164",
+        "phone": "+972-56-2547838",
+        "email": "מיכל.גולדברג@company.co.il",
+        "license_number": 24383453
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 107,
+        "drivetrain": "RWD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "31-685-84",
+      "vin": "1HGBH41JXMN520863",
+      "make": "BMW",
+      "model": "i8",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה גולדברג",
+        "id": "D165",
+        "phone": "+972-56-5717387",
+        "email": "שרה.גולדברג@company.co.il",
+        "license_number": 26293946
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 307,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "25-575-26",
+      "vin": "1HGBH41JXMN547747",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה רוזן",
+        "id": "D218",
+        "phone": "+972-59-2153788",
+        "email": "שרה.רוזן@company.co.il",
+        "license_number": 47373527
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 226,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "77-379-96",
+      "vin": "1HGBH41JXMN291013",
+      "make": "Honda",
+      "model": "Ridgeline",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה לוי",
+        "id": "D166",
+        "phone": "+972-50-1683305",
+        "email": "משה.לוי@company.co.il",
+        "license_number": 63285815
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 249,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "71-146-41",
+      "vin": "1HGBH41JXMN845064",
+      "make": "Volkswagen",
+      "model": "Golf",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני רוזן",
+        "id": "D167",
+        "phone": "+972-54-7166114",
+        "email": "דני.רוזן@company.co.il",
+        "license_number": 10593455
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 245,
+        "drivetrain": "AWD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "46-829-86",
+      "vin": "1HGBH41JXMN102810",
+      "make": "BMW",
+      "model": "7 Series",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה לוי",
+        "id": "D168",
+        "phone": "+972-52-1011815",
+        "email": "משה.לוי@company.co.il",
+        "license_number": 60507756
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 124,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "95-249-38",
+      "vin": "1HGBH41JXMN656691",
+      "make": "Isuzu",
+      "model": "MU-X",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי רוזן",
+        "id": "D150",
+        "phone": "+972-51-1224906",
+        "email": "אבי.רוזן@company.co.il",
+        "license_number": 12478494
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 248,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "85-470-45",
+      "vin": "1HGBH41JXMN306111",
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה ישראלי",
+        "id": "D148",
+        "phone": "+972-54-8680173",
+        "email": "נועה.ישראלי@company.co.il",
+        "license_number": 17563108
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 250,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "68-923-40",
+      "vin": "1HGBH41JXMN522901",
+      "make": "Mercedes",
+      "model": "GLC",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי גולדברג",
+        "id": "D170",
+        "phone": "+972-57-4479318",
+        "email": "אבי.גולדברג@company.co.il",
+        "license_number": 76930749
+      },
+      "specifications": {
+        "seating_capacity": 2,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 309,
+        "drivetrain": "RWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "75-479-99",
+      "vin": "1HGBH41JXMN246144",
+      "make": "Kia",
+      "model": "Stinger",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה גולדברג",
+        "id": "D147",
+        "phone": "+972-58-3209078",
+        "email": "נועה.גולדברג@company.co.il",
+        "license_number": 53291247
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 223,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "13-226-94",
+      "vin": "1HGBH41JXMN857249",
+      "make": "Nissan",
+      "model": "Leaf",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי לוי",
+        "id": "D128",
+        "phone": "+972-57-9903305",
+        "email": "יוסי.לוי@company.co.il",
+        "license_number": 69981281
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 185,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "20-583-17",
+      "vin": "1HGBH41JXMN992204",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל רוזן",
+        "id": "D129",
+        "phone": "+972-55-4690729",
+        "email": "רחל.רוזן@company.co.il",
+        "license_number": 17300040
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 259,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "56-338-29",
+      "vin": "1HGBH41JXMN523431",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה ישראלי",
+        "id": "D130",
+        "phone": "+972-57-6845357",
+        "email": "נועה.ישראלי@company.co.il",
+        "license_number": 82770137
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 188,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "40-360-21",
+      "vin": "1HGBH41JXMN453753",
+      "make": "Kia",
+      "model": "Soul",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל רוזן",
+        "id": "D131",
+        "phone": "+972-54-3890447",
+        "email": "מיכל.רוזן@company.co.il",
+        "license_number": 98279350
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 196,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "80-897-16",
+      "vin": "1HGBH41JXMN391179",
+      "make": "BMW",
+      "model": "X3",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל רוזן",
+        "id": "D132",
+        "phone": "+972-57-1256129",
+        "email": "רחל.רוזן@company.co.il",
+        "license_number": 53379955
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 243,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "61-738-55",
+      "vin": "1HGBH41JXMN789144",
+      "make": "Infiniti",
+      "model": "QX80",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה ישראלי",
+        "id": "D133",
+        "phone": "+972-52-1827305",
+        "email": "משה.ישראלי@company.co.il",
+        "license_number": 49251941
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 141,
+        "drivetrain": "4WD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "75-839-91",
+      "vin": "1HGBH41JXMN394626",
+      "make": "Renault",
+      "model": "Trafic",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה גולדברג",
+        "id": "D134",
+        "phone": "+972-57-4211733",
+        "email": "נועה.גולדברג@company.co.il",
+        "license_number": 87212695
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 171,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "20-925-27",
+      "vin": "1HGBH41JXMN803163",
+      "make": "Renault",
+      "model": "Clio",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה רוזן",
+        "id": "D135",
+        "phone": "+972-50-4203257",
+        "email": "משה.רוזן@company.co.il",
+        "license_number": 46435719
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 186,
+        "drivetrain": "RWD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-118-87",
+      "vin": "1HGBH41JXMN697589",
+      "make": "Isuzu",
+      "model": "FTR",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון לוי",
+        "id": "D136",
+        "phone": "+972-53-2970041",
+        "email": "אלון.לוי@company.co.il",
+        "license_number": 71279085
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 398,
+        "drivetrain": "RWD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-806-37",
+      "vin": "1HGBH41JXMN446663",
+      "make": "Volvo",
+      "model": "XC40",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי כהן",
+        "id": "D137",
+        "phone": "+972-53-2181307",
+        "email": "אבי.כהן@company.co.il",
+        "license_number": 89695874
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 179,
+        "drivetrain": "RWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "71-850-16",
+      "vin": "1HGBH41JXMN577481",
+      "make": "Lexus",
+      "model": "GX",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי כהן",
+        "id": "D138",
+        "phone": "+972-56-4923019",
+        "email": "יוסי.כהן@company.co.il",
+        "license_number": 57641045
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 115,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "88-946-66",
+      "vin": "1HGBH41JXMN542257",
+      "make": "Toyota",
+      "model": "Hilux",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד גולדברג",
+        "id": "D139",
+        "phone": "+972-54-2715430",
+        "email": "דוד.גולדברג@company.co.il",
+        "license_number": 30666671
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 116,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "85-768-16",
+      "vin": "1HGBH41JXMN931235",
+      "make": "Kia",
+      "model": "Optima",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D140",
+        "phone": "+972-57-2492657",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 58177984
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 150,
+        "drivetrain": "4WD",
+        "color": "Red",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "90-783-10",
+      "vin": "1HGBH41JXMN852468",
+      "make": "Suzuki",
+      "model": "S-Cross",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה לוי",
+        "id": "D141",
+        "phone": "+972-50-1157145",
+        "email": "משה.לוי@company.co.il",
+        "license_number": 99076768
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 179,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-805-83",
+      "vin": "1HGBH41JXMN699413",
+      "make": "Peugeot",
+      "model": "308",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל ישראלי",
+        "id": "D142",
+        "phone": "+972-55-5949175",
+        "email": "רחל.ישראלי@company.co.il",
+        "license_number": 94102304
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 299,
+        "drivetrain": "RWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "78-380-86",
+      "vin": "1HGBH41JXMN992423",
+      "make": "Nissan",
+      "model": "Navara",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי ישראלי",
+        "id": "D143",
+        "phone": "+972-51-3719942",
+        "email": "יוסי.ישראלי@company.co.il",
+        "license_number": 73053638
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 138,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "31-978-98",
+      "vin": "1HGBH41JXMN896532",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון גולדברג",
+        "id": "D144",
+        "phone": "+972-55-8842199",
+        "email": "אלון.גולדברג@company.co.il",
+        "license_number": 12884028
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 186,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "99-651-49",
+      "vin": "1HGBH41JXMN924431",
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל כהן",
+        "id": "D145",
+        "phone": "+972-50-3926757",
+        "email": "מיכל.כהן@company.co.il",
+        "license_number": 92044191
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 283,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "81-509-41",
+      "vin": "1HGBH41JXMN585524",
+      "make": "Suzuki",
+      "model": "Baleno",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני כהן",
+        "id": "D146",
+        "phone": "+972-58-1463919",
+        "email": "דני.כהן@company.co.il",
+        "license_number": 78931890
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 293,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "15-615-96",
+      "vin": "1HGBH41JXMN853572",
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה גולדברג",
+        "id": "D169",
+        "phone": "+972-59-6211963",
+        "email": "שרה.גולדברג@company.co.il",
+        "license_number": 20019756
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 321,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "98-341-33",
+      "vin": "1HGBH41JXMN685375",
+      "make": "Lexus",
+      "model": "GX",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה כהן",
+        "id": "D171",
+        "phone": "+972-56-9849920",
+        "email": "שרה.כהן@company.co.il",
+        "license_number": 27512761
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 369,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "36-574-43",
+      "vin": "1HGBH41JXMN551399",
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה רוזן",
+        "id": "D210",
+        "phone": "+972-58-3245495",
+        "email": "משה.רוזן@company.co.il",
+        "license_number": 66731047
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 298,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "66-349-70",
+      "vin": "1HGBH41JXMN623964",
+      "make": "BMW",
+      "model": "5 Series",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה כהן",
+        "id": "D200",
+        "phone": "+972-56-5669372",
+        "email": "משה.כהן@company.co.il",
+        "license_number": 56395763
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 208,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "23-822-27",
+      "vin": "1HGBH41JXMN710448",
+      "make": "Suzuki",
+      "model": "Swift",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון ישראלי",
+        "id": "D192",
+        "phone": "+972-53-9754631",
+        "email": "אלון.ישראלי@company.co.il",
+        "license_number": 45263711
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 105,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "65-930-76",
+      "vin": "1HGBH41JXMN434380",
+      "make": "Suzuki",
+      "model": "Swift",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני ישראלי",
+        "id": "D193",
+        "phone": "+972-58-9155292",
+        "email": "דני.ישראלי@company.co.il",
+        "license_number": 35806957
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 298,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "32-415-41",
+      "vin": "1HGBH41JXMN620539",
+      "make": "Mitsubishi",
+      "model": "ASX",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון לוי",
+        "id": "D194",
+        "phone": "+972-51-4169025",
+        "email": "אלון.לוי@company.co.il",
+        "license_number": 13104443
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 322,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "20-877-46",
+      "vin": "1HGBH41JXMN441264",
+      "make": "Mercedes",
+      "model": "GLC",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי כהן",
+        "id": "D213",
+        "phone": "+972-53-5806393",
+        "email": "יוסי.כהן@company.co.il",
+        "license_number": 66184240
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 198,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "74-352-73",
+      "vin": "1HGBH41JXMN541263",
+      "make": "Isuzu",
+      "model": "MU-X",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי גולדברג",
+        "id": "D195",
+        "phone": "+972-54-1371406",
+        "email": "יוסי.גולדברג@company.co.il",
+        "license_number": 70220568
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 148,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "35-360-73",
+      "vin": "1HGBH41JXMN766463",
+      "make": "Renault",
+      "model": "Kangoo",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה כהן",
+        "id": "D196",
+        "phone": "+972-51-1956154",
+        "email": "משה.כהן@company.co.il",
+        "license_number": 76563824
+      },
+      "specifications": {
+        "seating_capacity": 2,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 255,
+        "drivetrain": "RWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "61-732-41",
+      "vin": "1HGBH41JXMN205521",
+      "make": "Audi",
+      "model": "A6",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד גולדברג",
+        "id": "D197",
+        "phone": "+972-55-3841128",
+        "email": "דוד.גולדברג@company.co.il",
+        "license_number": 67330604
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 388,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "38-481-27",
+      "vin": "1HGBH41JXMN962479",
+      "make": "BMW",
+      "model": "X5",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל גולדברג",
+        "id": "D198",
+        "phone": "+972-55-2151256",
+        "email": "רחל.גולדברג@company.co.il",
+        "license_number": 14318357
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 163,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "85-811-54",
+      "vin": "1HGBH41JXMN644814",
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי לוי",
+        "id": "D199",
+        "phone": "+972-58-2417854",
+        "email": "אבי.לוי@company.co.il",
+        "license_number": 79346105
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 393,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-225-52",
+      "vin": "1HGBH41JXMN908541",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה לוי",
+        "id": "D212",
+        "phone": "+972-53-3101708",
+        "email": "משה.לוי@company.co.il",
+        "license_number": 10488059
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 240,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "97-925-45",
+      "vin": "1HGBH41JXMN740808",
+      "make": "Subaru",
+      "model": "BRZ",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה רוזן",
+        "id": "D190",
+        "phone": "+972-51-9825411",
+        "email": "שרה.רוזן@company.co.il",
+        "license_number": 75031791
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 146,
+        "drivetrain": "RWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "29-162-16",
+      "vin": "1HGBH41JXMN483669",
+      "make": "Mazda",
+      "model": "Mazda3",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה לוי",
+        "id": "D201",
+        "phone": "+972-58-2589743",
+        "email": "משה.לוי@company.co.il",
+        "license_number": 91542940
+      },
+      "specifications": {
+        "seating_capacity": 2,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 220,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "60-146-36",
+      "vin": "1HGBH41JXMN614671",
+      "make": "Suzuki",
+      "model": "Carry",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל כהן",
+        "id": "D202",
+        "phone": "+972-52-7973765",
+        "email": "רחל.כהן@company.co.il",
+        "license_number": 25375144
+      },
+      "specifications": {
+        "seating_capacity": 2,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 339,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "12-336-89",
+      "vin": "1HGBH41JXMN778526",
+      "make": "Mercedes",
+      "model": "GLC",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה גולדברג",
+        "id": "D203",
+        "phone": "+972-57-6928323",
+        "email": "שרה.גולדברג@company.co.il",
+        "license_number": 83906027
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 144,
+        "drivetrain": "RWD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "47-460-15",
+      "vin": "1HGBH41JXMN526488",
+      "make": "Nissan",
+      "model": "Leaf",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי ישראלי",
+        "id": "D204",
+        "phone": "+972-53-2010099",
+        "email": "אבי.ישראלי@company.co.il",
+        "license_number": 12738186
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 234,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "33-659-15",
+      "vin": "1HGBH41JXMN314209",
+      "make": "Ford",
+      "model": "Transit",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי רוזן",
+        "id": "D205",
+        "phone": "+972-57-3003479",
+        "email": "יוסי.רוזן@company.co.il",
+        "license_number": 31804761
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 267,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "25-314-47",
+      "vin": "1HGBH41JXMN506149",
+      "make": "Volvo",
+      "model": "XC60",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון כהן",
+        "id": "D206",
+        "phone": "+972-58-5104053",
+        "email": "אלון.כהן@company.co.il",
+        "license_number": 48065767
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 163,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "72-962-68",
+      "vin": "1HGBH41JXMN301684",
+      "make": "Kia",
+      "model": "Sorento",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה ישראלי",
+        "id": "D207",
+        "phone": "+972-51-8677125",
+        "email": "נועה.ישראלי@company.co.il",
+        "license_number": 86885767
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 100,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "51-680-35",
+      "vin": "1HGBH41JXMN821455",
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל גולדברג",
+        "id": "D208",
+        "phone": "+972-51-4877942",
+        "email": "מיכל.גולדברג@company.co.il",
+        "license_number": 25828237
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 120,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "85-551-33",
+      "vin": "1HGBH41JXMN732841",
+      "make": "Infiniti",
+      "model": "QX80",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל לוי",
+        "id": "D209",
+        "phone": "+972-53-7120346",
+        "email": "רחל.לוי@company.co.il",
+        "license_number": 93343234
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 285,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "27-238-68",
+      "vin": "1HGBH41JXMN545400",
+      "make": "Volvo",
+      "model": "V90",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי לוי",
+        "id": "D191",
+        "phone": "+972-58-2251254",
+        "email": "אבי.לוי@company.co.il",
+        "license_number": 60498086
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 341,
+        "drivetrain": "RWD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "21-500-26",
+      "vin": "1HGBH41JXMN299780",
+      "make": "Volvo",
+      "model": "V90",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד רוזן",
+        "id": "D189",
+        "phone": "+972-56-6950442",
+        "email": "דוד.רוזן@company.co.il",
+        "license_number": 17787942
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 297,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "91-763-53",
+      "vin": "1HGBH41JXMN495249",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי לוי",
+        "id": "D172",
+        "phone": "+972-59-6772826",
+        "email": "אבי.לוי@company.co.il",
+        "license_number": 23503363
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 173,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "13-631-43",
+      "vin": "1HGBH41JXMN958351",
+      "make": "Mazda",
+      "model": "CX-3",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה לוי",
+        "id": "D179",
+        "phone": "+972-54-8276557",
+        "email": "שרה.לוי@company.co.il",
+        "license_number": 98142812
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 170,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "94-997-63",
+      "vin": "1HGBH41JXMN441558",
+      "make": "Toyota",
+      "model": "Hilux",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל לוי",
+        "id": "D173",
+        "phone": "+972-59-4661213",
+        "email": "רחל.לוי@company.co.il",
+        "license_number": 24448197
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 180,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "68-477-60",
+      "vin": "1HGBH41JXMN176874",
+      "make": "Toyota",
+      "model": "Hilux",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון ישראלי",
+        "id": "D174",
+        "phone": "+972-51-7259181",
+        "email": "אלון.ישראלי@company.co.il",
+        "license_number": 66131161
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 348,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "48-910-62",
+      "vin": "1HGBH41JXMN604028",
+      "make": "Toyota",
+      "model": "RAV4",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי ישראלי",
+        "id": "D175",
+        "phone": "+972-53-6102309",
+        "email": "יוסי.ישראלי@company.co.il",
+        "license_number": 22117450
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 102,
+        "drivetrain": "AWD",
+        "color": "Red",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "81-614-66",
+      "vin": "1HGBH41JXMN232529",
+      "make": "Infiniti",
+      "model": "QX60",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה רוזן",
+        "id": "D217",
+        "phone": "+972-50-6406232",
+        "email": "משה.רוזן@company.co.il",
+        "license_number": 10797678
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 224,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "76-283-40",
+      "vin": "1HGBH41JXMN140253",
+      "make": "BMW",
+      "model": "i8",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל גולדברג",
+        "id": "D176",
+        "phone": "+972-59-2902795",
+        "email": "מיכל.גולדברג@company.co.il",
+        "license_number": 15638931
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 127,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "64-593-93",
+      "vin": "1HGBH41JXMN736711",
+      "make": "Volvo",
+      "model": "V60",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד רוזן",
+        "id": "D177",
+        "phone": "+972-57-2554334",
+        "email": "דוד.רוזן@company.co.il",
+        "license_number": 27267717
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 325,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-172-18",
+      "vin": "1HGBH41JXMN480956",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה כהן",
+        "id": "D216",
+        "phone": "+972-50-1175181",
+        "email": "שרה.כהן@company.co.il",
+        "license_number": 34023901
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 110,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-107-53",
+      "vin": "1HGBH41JXMN547074",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה גולדברג",
+        "id": "D215",
+        "phone": "+972-52-2378077",
+        "email": "שרה.גולדברג@company.co.il",
+        "license_number": 24729456
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 106,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "97-944-24",
+      "vin": "1HGBH41JXMN673270",
+      "make": "Volvo",
+      "model": "V90",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה גולדברג",
+        "id": "D178",
+        "phone": "+972-58-3025339",
+        "email": "נועה.גולדברג@company.co.il",
+        "license_number": 56079854
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 356,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "80-911-71",
+      "vin": "1HGBH41JXMN415396",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני רוזן",
+        "id": "D214",
+        "phone": "+972-52-5725546",
+        "email": "דני.רוזן@company.co.il",
+        "license_number": 13118941
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 144,
+        "drivetrain": "AWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "81-711-40",
+      "vin": "1HGBH41JXMN863316",
+      "make": "Isuzu",
+      "model": "MU-X",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D188",
+        "phone": "+972-53-9721707",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 90765819
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 290,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "57-496-84",
+      "vin": "1HGBH41JXMN443815",
+      "make": "Ford",
+      "model": "Transit",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל גולדברג",
+        "id": "D180",
+        "phone": "+972-56-2663921",
+        "email": "מיכל.גולדברג@company.co.il",
+        "license_number": 99455645
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 298,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "65-679-14",
+      "vin": "1HGBH41JXMN651916",
+      "make": "Renault",
+      "model": "Trafic",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה לוי",
+        "id": "D126",
+        "phone": "+972-56-4029421",
+        "email": "נועה.לוי@company.co.il",
+        "license_number": 56689536
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 273,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "25-829-11",
+      "vin": "1HGBH41JXMN240282",
+      "make": "Ford",
+      "model": "Focus",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון ישראלי",
+        "id": "D181",
+        "phone": "+972-50-1598574",
+        "email": "אלון.ישראלי@company.co.il",
+        "license_number": 89807405
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 390,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "27-461-30",
+      "vin": "1HGBH41JXMN891767",
+      "make": "Volvo",
+      "model": "V90",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה לוי",
+        "id": "D182",
+        "phone": "+972-56-3439905",
+        "email": "משה.לוי@company.co.il",
+        "license_number": 44796818
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 154,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "43-828-95",
+      "vin": "1HGBH41JXMN980750",
+      "make": "Peugeot",
+      "model": "Partner",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה רוזן",
+        "id": "D183",
+        "phone": "+972-55-1219542",
+        "email": "משה.רוזן@company.co.il",
+        "license_number": 14667666
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 218,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "94-414-89",
+      "vin": "1HGBH41JXMN674662",
+      "make": "Peugeot",
+      "model": "508",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד כהן",
+        "id": "D184",
+        "phone": "+972-54-2498993",
+        "email": "דוד.כהן@company.co.il",
+        "license_number": 32925247
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 161,
+        "drivetrain": "RWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "44-529-45",
+      "vin": "1HGBH41JXMN376268",
+      "make": "Mazda",
+      "model": "MX-5",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל כהן",
+        "id": "D185",
+        "phone": "+972-59-5282224",
+        "email": "רחל.כהן@company.co.il",
+        "license_number": 55204885
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 158,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "69-191-79",
+      "vin": "1HGBH41JXMN577378",
+      "make": "Infiniti",
+      "model": "Q70",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה ישראלי",
+        "id": "D186",
+        "phone": "+972-58-1398564",
+        "email": "שרה.ישראלי@company.co.il",
+        "license_number": 37294665
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 239,
+        "drivetrain": "RWD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "56-722-64",
+      "vin": "1HGBH41JXMN175200",
+      "make": "Volvo",
+      "model": "V90",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה כהן",
+        "id": "D187",
+        "phone": "+972-55-4669164",
+        "email": "משה.כהן@company.co.il",
+        "license_number": 23550617
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 396,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "29-680-71",
+      "vin": "1HGBH41JXMN914643",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי כהן",
+        "id": "D127",
+        "phone": "+972-58-5200939",
+        "email": "אבי.כהן@company.co.il",
+        "license_number": 99144253
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 300,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "13-276-49",
+      "vin": "1HGBH41JXMN252063",
+      "make": "Suzuki",
+      "model": "Ignis",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה כהן",
+        "id": "D111",
+        "phone": "+972-54-9951360",
+        "email": "שרה.כהן@company.co.il",
+        "license_number": 58145740
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 388,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "34-106-23",
+      "vin": "1HGBH41JXMN969673",
+      "make": "Suzuki",
+      "model": "Baleno",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי רוזן",
+        "id": "D125",
+        "phone": "+972-56-9382498",
+        "email": "יוסי.רוזן@company.co.il",
+        "license_number": 21973740
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 181,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "49-717-56",
+      "vin": "1HGBH41JXMN243007",
+      "make": "Toyota",
+      "model": "RAV4",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי לוי",
+        "id": "D057",
+        "phone": "+972-56-4204509",
+        "email": "יוסי.לוי@company.co.il",
+        "license_number": 25797570
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 375,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "49-110-95",
+      "vin": "1HGBH41JXMN474860",
+      "make": "Kia",
+      "model": "Stinger",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי ישראלי",
+        "id": "D047",
+        "phone": "+972-59-1810392",
+        "email": "יוסי.ישראלי@company.co.il",
+        "license_number": 83179888
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 343,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "66-995-99",
+      "vin": "1HGBH41JXMN358994",
+      "make": "Subaru",
+      "model": "Forester",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה לוי",
+        "id": "D049",
+        "phone": "+972-55-6461416",
+        "email": "שרה.לוי@company.co.il",
+        "license_number": 96953808
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 133,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "82-409-64",
+      "vin": "1HGBH41JXMN417828",
+      "make": "Honda",
+      "model": "Fit",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד גולדברג",
+        "id": "D050",
+        "phone": "+972-51-9146073",
+        "email": "דוד.גולדברג@company.co.il",
+        "license_number": 45418364
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 387,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "11-136-59",
+      "vin": "1HGBH41JXMN327869",
+      "make": "Subaru",
+      "model": "Forester",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי ישראלי",
+        "id": "D051",
+        "phone": "+972-54-1462704",
+        "email": "יוסי.ישראלי@company.co.il",
+        "license_number": 94526843
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 389,
+        "drivetrain": "4WD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "67-747-47",
+      "vin": "1HGBH41JXMN868443",
+      "make": "Audi",
+      "model": "A4",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה רוזן",
+        "id": "D052",
+        "phone": "+972-58-5383584",
+        "email": "נועה.רוזן@company.co.il",
+        "license_number": 53581549
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 250,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "63-977-23",
+      "vin": "1HGBH41JXMN221997",
+      "make": "Mazda",
+      "model": "CX-3",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה כהן",
+        "id": "D053",
+        "phone": "+972-54-5365323",
+        "email": "נועה.כהן@company.co.il",
+        "license_number": 76699974
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 379,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "96-560-63",
+      "vin": "1HGBH41JXMN545173",
+      "make": "Honda",
+      "model": "Ridgeline",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה לוי",
+        "id": "D054",
+        "phone": "+972-50-6889163",
+        "email": "נועה.לוי@company.co.il",
+        "license_number": 62161187
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 151,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "27-885-53",
+      "vin": "1HGBH41JXMN188969",
+      "make": "Infiniti",
+      "model": "Q70",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל גולדברג",
+        "id": "D055",
+        "phone": "+972-56-2596788",
+        "email": "מיכל.גולדברג@company.co.il",
+        "license_number": 16572257
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 146,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "68-450-14",
+      "vin": "1HGBH41JXMN103339",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל רוזן",
+        "id": "D056",
+        "phone": "+972-54-8826025",
+        "email": "רחל.רוזן@company.co.il",
+        "license_number": 62614581
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 290,
+        "drivetrain": "RWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "87-801-94",
+      "vin": "1HGBH41JXMN412528",
+      "make": "Hyundai",
+      "model": "H1",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D058",
+        "phone": "+972-52-1011270",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 50236659
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 297,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "49-755-87",
+      "vin": "1HGBH41JXMN465159",
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני רוזן",
+        "id": "D045",
+        "phone": "+972-58-5500382",
+        "email": "דני.רוזן@company.co.il",
+        "license_number": 22599892
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 121,
+        "drivetrain": "FWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "25-257-71",
+      "vin": "1HGBH41JXMN828455",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי ישראלי",
+        "id": "D059",
+        "phone": "+972-50-7337335",
+        "email": "אבי.ישראלי@company.co.il",
+        "license_number": 78613622
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 224,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "59-700-55",
+      "vin": "1HGBH41JXMN988334",
+      "make": "Nissan",
+      "model": "Navara",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי גולדברג",
+        "id": "D060",
+        "phone": "+972-53-6810183",
+        "email": "אבי.גולדברג@company.co.il",
+        "license_number": 81056379
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 294,
+        "drivetrain": "AWD",
+        "color": "Red",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "86-369-54",
+      "vin": "1HGBH41JXMN280254",
+      "make": "Lexus",
+      "model": "IS",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל כהן",
+        "id": "D061",
+        "phone": "+972-50-3122938",
+        "email": "מיכל.כהן@company.co.il",
+        "license_number": 30403554
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 336,
+        "drivetrain": "4WD",
+        "color": "Red",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "78-196-52",
+      "vin": "1HGBH41JXMN921188",
+      "make": "Mercedes",
+      "model": "E-Class",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי רוזן",
+        "id": "D062",
+        "phone": "+972-55-2885057",
+        "email": "יוסי.רוזן@company.co.il",
+        "license_number": 17196538
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 284,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "69-130-23",
+      "vin": "1HGBH41JXMN379728",
+      "make": "Lexus",
+      "model": "UX",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד גולדברג",
+        "id": "D064",
+        "phone": "+972-54-6116855",
+        "email": "דוד.גולדברג@company.co.il",
+        "license_number": 22464188
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 244,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "30-329-26",
+      "vin": "1HGBH41JXMN309425",
+      "make": "Infiniti",
+      "model": "Q50",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני כהן",
+        "id": "D066",
+        "phone": "+972-53-7014788",
+        "email": "דני.כהן@company.co.il",
+        "license_number": 54873729
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 173,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "98-456-39",
+      "vin": "1HGBH41JXMN420513",
+      "make": "Renault",
+      "model": "Clio",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה ישראלי",
+        "id": "D067",
+        "phone": "+972-55-4071753",
+        "email": "נועה.ישראלי@company.co.il",
+        "license_number": 31659958
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 103,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "63-538-89",
+      "vin": "1HGBH41JXMN465652",
+      "make": "Kia",
+      "model": "Sorento",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון ישראלי",
+        "id": "D070",
+        "phone": "+972-53-6171538",
+        "email": "אלון.ישראלי@company.co.il",
+        "license_number": 26633461
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 267,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "25-518-25",
+      "vin": "1HGBH41JXMN737671",
+      "make": "Kia",
+      "model": "Stinger",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי גולדברג",
+        "id": "D071",
+        "phone": "+972-53-7389692",
+        "email": "אבי.גולדברג@company.co.il",
+        "license_number": 89167849
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 228,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "53-654-68",
+      "vin": "1HGBH41JXMN682022",
+      "make": "Lexus",
+      "model": "IS",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה רוזן",
+        "id": "D046",
+        "phone": "+972-56-7162466",
+        "email": "נועה.רוזן@company.co.il",
+        "license_number": 89831998
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 385,
+        "drivetrain": "RWD",
+        "color": "Red",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "78-966-14",
+      "vin": "1HGBH41JXMN668983",
+      "make": "Volvo",
+      "model": "V60",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון לוי",
+        "id": "D044",
+        "phone": "+972-50-6841888",
+        "email": "אלון.לוי@company.co.il",
+        "license_number": 78523056
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 371,
+        "drivetrain": "AWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "32-283-49",
+      "vin": "1HGBH41JXMN626091",
+      "make": "Mercedes",
+      "model": "Sprinter",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון גולדברג",
+        "id": "D074",
+        "phone": "+972-50-9133838",
+        "email": "אלון.גולדברג@company.co.il",
+        "license_number": 33464628
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 356,
+        "drivetrain": "RWD",
+        "color": "Silver",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "59-623-37",
+      "vin": "1HGBH41JXMN640446",
+      "make": "Ford",
+      "model": "Transit",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה גולדברג",
+        "id": "D031",
+        "phone": "+972-54-4877792",
+        "email": "נועה.גולדברג@company.co.il",
+        "license_number": 59472236
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 161,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "58-827-20",
+      "vin": "1HGBH41JXMN948208",
+      "make": "Mazda",
+      "model": "Mazda6",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D015",
+        "phone": "+972-51-6499664",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 48575789
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 337,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "16-873-17",
+      "vin": "1HGBH41JXMN364111",
+      "make": "Mercedes",
+      "model": "C-Class",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי ישראלי",
+        "id": "D022",
+        "phone": "+972-53-7239113",
+        "email": "יוסי.ישראלי@company.co.il",
+        "license_number": 82137944
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 340,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "42-448-84",
+      "vin": "1HGBH41JXMN627229",
+      "make": "Lexus",
+      "model": "UX",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני ישראלי",
+        "id": "D023",
+        "phone": "+972-59-9943862",
+        "email": "דני.ישראלי@company.co.il",
+        "license_number": 10355662
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 296,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "64-159-14",
+      "vin": "1HGBH41JXMN924784",
+      "make": "Audi",
+      "model": "A8",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני כהן",
+        "id": "D024",
+        "phone": "+972-57-5630918",
+        "email": "דני.כהן@company.co.il",
+        "license_number": 36368354
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 142,
+        "drivetrain": "4WD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "79-342-62",
+      "vin": "1HGBH41JXMN310087",
+      "make": "Isuzu",
+      "model": "FTR",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה כהן",
+        "id": "D025",
+        "phone": "+972-53-6820961",
+        "email": "נועה.כהן@company.co.il",
+        "license_number": 10255693
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 209,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "60-911-85",
+      "vin": "1HGBH41JXMN341896",
+      "make": "Volvo",
+      "model": "S90",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה ישראלי",
+        "id": "D026",
+        "phone": "+972-52-5302361",
+        "email": "משה.ישראלי@company.co.il",
+        "license_number": 84125995
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 292,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "48-661-12",
+      "vin": "1HGBH41JXMN352914",
+      "make": "Audi",
+      "model": "e-tron",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד ישראלי",
+        "id": "D027",
+        "phone": "+972-55-7441592",
+        "email": "דוד.ישראלי@company.co.il",
+        "license_number": 35113026
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 251,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "45-681-78",
+      "vin": "1HGBH41JXMN790246",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל ישראלי",
+        "id": "D029",
+        "phone": "+972-56-4997989",
+        "email": "רחל.ישראלי@company.co.il",
+        "license_number": 71591123
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 347,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "81-173-98",
+      "vin": "1HGBH41JXMN681635",
+      "make": "Lexus",
+      "model": "UX",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל לוי",
+        "id": "D030",
+        "phone": "+972-58-2568394",
+        "email": "רחל.לוי@company.co.il",
+        "license_number": 40211861
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 239,
+        "drivetrain": "RWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "32-152-78",
+      "vin": "1HGBH41JXMN154314",
+      "make": "Peugeot",
+      "model": "3008",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה כהן",
+        "id": "D032",
+        "phone": "+972-54-1072970",
+        "email": "משה.כהן@company.co.il",
+        "license_number": 93980502
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 328,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-880-40",
+      "vin": "1HGBH41JXMN309076",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי רוזן",
+        "id": "D043",
+        "phone": "+972-56-7392755",
+        "email": "אבי.רוזן@company.co.il",
+        "license_number": 91779594
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 236,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "41-516-38",
+      "vin": "1HGBH41JXMN963897",
+      "make": "Renault",
+      "model": "Koleos",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל לוי",
+        "id": "D033",
+        "phone": "+972-52-6298623",
+        "email": "רחל.לוי@company.co.il",
+        "license_number": 98174357
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 302,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "90-499-35",
+      "vin": "1HGBH41JXMN267131",
+      "make": "Infiniti",
+      "model": "QX50",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה לוי",
+        "id": "D034",
+        "phone": "+972-50-6192298",
+        "email": "שרה.לוי@company.co.il",
+        "license_number": 74256482
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 277,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "25-441-58",
+      "vin": "1HGBH41JXMN627045",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל רוזן",
+        "id": "D035",
+        "phone": "+972-59-2082317",
+        "email": "מיכל.רוזן@company.co.il",
+        "license_number": 68994625
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 198,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "87-339-57",
+      "vin": "1HGBH41JXMN382540",
+      "make": "Subaru",
+      "model": "WRX",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה גולדברג",
+        "id": "D036",
+        "phone": "+972-51-4606356",
+        "email": "נועה.גולדברג@company.co.il",
+        "license_number": 87493061
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 387,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "69-619-27",
+      "vin": "1HGBH41JXMN896554",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון גולדברג",
+        "id": "D037",
+        "phone": "+972-57-9712396",
+        "email": "אלון.גולדברג@company.co.il",
+        "license_number": 35390219
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 327,
+        "drivetrain": "RWD",
+        "color": "Red",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "35-492-41",
+      "vin": "1HGBH41JXMN744876",
+      "make": "Mercedes",
+      "model": "GLE",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני רוזן",
+        "id": "D038",
+        "phone": "+972-53-2744736",
+        "email": "דני.רוזן@company.co.il",
+        "license_number": 72892135
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 235,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "30-302-79",
+      "vin": "1HGBH41JXMN638370",
+      "make": "Mercedes",
+      "model": "Sprinter",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה ישראלי",
+        "id": "D039",
+        "phone": "+972-55-6884094",
+        "email": "משה.ישראלי@company.co.il",
+        "license_number": 92349524
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 179,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "89-905-51",
+      "vin": "1HGBH41JXMN364982",
+      "make": "Mazda",
+      "model": "BT-50",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל גולדברג",
+        "id": "D040",
+        "phone": "+972-51-2529818",
+        "email": "מיכל.גולדברג@company.co.il",
+        "license_number": 87956572
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 123,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "13-820-79",
+      "vin": "1HGBH41JXMN768137",
+      "make": "Infiniti",
+      "model": "Q50",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון גולדברג",
+        "id": "D042",
+        "phone": "+972-58-4265084",
+        "email": "אלון.גולדברג@company.co.il",
+        "license_number": 52631601
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 209,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "68-634-65",
+      "vin": "1HGBH41JXMN712529",
+      "make": "Volvo",
+      "model": "S90",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני ישראלי",
+        "id": "D073",
+        "phone": "+972-56-3599750",
+        "email": "דני.ישראלי@company.co.il",
+        "license_number": 54937847
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 234,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "60-494-52",
+      "vin": "1HGBH41JXMN257954",
+      "make": "Kia",
+      "model": "Optima",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל רוזן",
+        "id": "D075",
+        "phone": "+972-56-2393232",
+        "email": "רחל.רוזן@company.co.il",
+        "license_number": 17676973
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 178,
+        "drivetrain": "AWD",
+        "color": "Black",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "57-199-82",
+      "vin": "1HGBH41JXMN549903",
+      "make": "Kia",
+      "model": "Forte",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל לוי",
+        "id": "D124",
+        "phone": "+972-51-9656894",
+        "email": "מיכל.לוי@company.co.il",
+        "license_number": 90342733
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 129,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "52-439-55",
+      "vin": "1HGBH41JXMN267987",
+      "make": "Infiniti",
+      "model": "QX60",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה ישראלי",
+        "id": "D113",
+        "phone": "+972-52-8550806",
+        "email": "שרה.ישראלי@company.co.il",
+        "license_number": 33922709
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 241,
+        "drivetrain": "4WD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "36-154-65",
+      "vin": "1HGBH41JXMN225676",
+      "make": "Infiniti",
+      "model": "QX60",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה כהן",
+        "id": "D103",
+        "phone": "+972-57-5457820",
+        "email": "נועה.כהן@company.co.il",
+        "license_number": 77170798
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 201,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "35-918-69",
+      "vin": "1HGBH41JXMN394558",
+      "make": "Renault",
+      "model": "Kangoo",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי רוזן",
+        "id": "D104",
+        "phone": "+972-51-7218927",
+        "email": "יוסי.רוזן@company.co.il",
+        "license_number": 19268620
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 103,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "95-957-68",
+      "vin": "1HGBH41JXMN645428",
+      "make": "Volkswagen",
+      "model": "Caddy",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה גולדברג",
+        "id": "D105",
+        "phone": "+972-58-1400900",
+        "email": "נועה.גולדברג@company.co.il",
+        "license_number": 48764664
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 191,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "15-825-13",
+      "vin": "1HGBH41JXMN723605",
+      "make": "Audi",
+      "model": "Q3",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל ישראלי",
+        "id": "D106",
+        "phone": "+972-52-1885677",
+        "email": "רחל.ישראלי@company.co.il",
+        "license_number": 43832197
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 303,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "83-870-13",
+      "vin": "1HGBH41JXMN750502",
+      "make": "Audi",
+      "model": "A4",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד גולדברג",
+        "id": "D107",
+        "phone": "+972-54-1946541",
+        "email": "דוד.גולדברג@company.co.il",
+        "license_number": 50369749
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 297,
+        "drivetrain": "AWD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "48-700-17",
+      "vin": "1HGBH41JXMN520641",
+      "make": "Renault",
+      "model": "Master",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה רוזן",
+        "id": "D108",
+        "phone": "+972-59-4260604",
+        "email": "שרה.רוזן@company.co.il",
+        "license_number": 23491275
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 370,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "43-851-80",
+      "vin": "1HGBH41JXMN340900",
+      "make": "BMW",
+      "model": "X1",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה רוזן",
+        "id": "D109",
+        "phone": "+972-50-2182728",
+        "email": "שרה.רוזן@company.co.il",
+        "license_number": 58409129
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 365,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "33-361-50",
+      "vin": "1HGBH41JXMN215962",
+      "make": "Suzuki",
+      "model": "Carry",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל לוי",
+        "id": "D110",
+        "phone": "+972-50-5616949",
+        "email": "רחל.לוי@company.co.il",
+        "license_number": 32828652
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 318,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "46-328-91",
+      "vin": "1HGBH41JXMN802481",
+      "make": "Ford",
+      "model": "Focus",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד רוזן",
+        "id": "D112",
+        "phone": "+972-53-3057322",
+        "email": "דוד.רוזן@company.co.il",
+        "license_number": 35931173
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 124,
+        "drivetrain": "RWD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "67-743-46",
+      "vin": "1HGBH41JXMN179588",
+      "make": "Volvo",
+      "model": "V60",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל כהן",
+        "id": "D114",
+        "phone": "+972-54-1396214",
+        "email": "מיכל.כהן@company.co.il",
+        "license_number": 49386404
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 336,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-804-29",
+      "vin": "1HGBH41JXMN855385",
+      "make": "Peugeot",
+      "model": "308",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד ישראלי",
+        "id": "D101",
+        "phone": "+972-52-4458348",
+        "email": "דוד.ישראלי@company.co.il",
+        "license_number": 77079848
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 217,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "92-227-90",
+      "vin": "1HGBH41JXMN645690",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון כהן",
+        "id": "D115",
+        "phone": "+972-51-4847267",
+        "email": "אלון.כהן@company.co.il",
+        "license_number": 48011436
+      },
+      "specifications": {
+        "seating_capacity": 2,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 374,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "77-758-94",
+      "vin": "1HGBH41JXMN829270",
+      "make": "Infiniti",
+      "model": "QX50",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון לוי",
+        "id": "D116",
+        "phone": "+972-51-4883502",
+        "email": "אלון.לוי@company.co.il",
+        "license_number": 56984175
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 148,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "66-193-71",
+      "vin": "1HGBH41JXMN146705",
+      "make": "Renault",
+      "model": "Clio",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל כהן",
+        "id": "D117",
+        "phone": "+972-55-1326988",
+        "email": "רחל.כהן@company.co.il",
+        "license_number": 85075541
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 100,
+        "drivetrain": "RWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "97-577-55",
+      "vin": "1HGBH41JXMN410152",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי רוזן",
+        "id": "D118",
+        "phone": "+972-53-8032960",
+        "email": "אבי.רוזן@company.co.il",
+        "license_number": 63165108
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 243,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "85-243-71",
+      "vin": "1HGBH41JXMN885662",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה כהן",
+        "id": "D119",
+        "phone": "+972-55-8538648",
+        "email": "משה.כהן@company.co.il",
+        "license_number": 94315754
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 159,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "85-925-21",
+      "vin": "1HGBH41JXMN507197",
+      "make": "Volvo",
+      "model": "V90",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה רוזן",
+        "id": "D120",
+        "phone": "+972-58-6655208",
+        "email": "נועה.רוזן@company.co.il",
+        "license_number": 42904506
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 245,
+        "drivetrain": "RWD",
+        "color": "Silver",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "84-679-95",
+      "vin": "1HGBH41JXMN697524",
+      "make": "Suzuki",
+      "model": "Jimny",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה כהן",
+        "id": "D121",
+        "phone": "+972-56-8238751",
+        "email": "שרה.כהן@company.co.il",
+        "license_number": 82479665
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 186,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "11-965-82",
+      "vin": "1HGBH41JXMN514297",
+      "make": "Ford",
+      "model": "Escape",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה לוי",
+        "id": "D122",
+        "phone": "+972-51-7219849",
+        "email": "שרה.לוי@company.co.il",
+        "license_number": 13875717
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 291,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "52-532-11",
+      "vin": "1HGBH41JXMN100480",
+      "make": "Toyota",
+      "model": "Highlander",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד לוי",
+        "id": "D123",
+        "phone": "+972-55-8686482",
+        "email": "דוד.לוי@company.co.il",
+        "license_number": 17402556
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 204,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "93-494-44",
+      "vin": "1HGBH41JXMN304989",
+      "make": "Mazda",
+      "model": "Mazda6",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי רוזן",
+        "id": "D102",
+        "phone": "+972-54-7024650",
+        "email": "אבי.רוזן@company.co.il",
+        "license_number": 67405561
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 353,
+        "drivetrain": "AWD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "80-489-96",
+      "vin": "1HGBH41JXMN256154",
+      "make": "Infiniti",
+      "model": "QX50",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אבי ישראלי",
+        "id": "D100",
+        "phone": "+972-52-8129152",
+        "email": "אבי.ישראלי@company.co.il",
+        "license_number": 79202645
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 225,
+        "drivetrain": "FWD",
+        "color": "Red",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "17-695-31",
+      "vin": "1HGBH41JXMN396229",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה רוזן",
+        "id": "D076",
+        "phone": "+972-53-2505571",
+        "email": "נועה.רוזן@company.co.il",
+        "license_number": 22355154
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 389,
+        "drivetrain": "4WD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "33-270-23",
+      "vin": "1HGBH41JXMN319419",
+      "make": "Mercedes",
+      "model": "GLC",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון ישראלי",
+        "id": "D087",
+        "phone": "+972-56-9044194",
+        "email": "אלון.ישראלי@company.co.il",
+        "license_number": 34906088
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 298,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "51-318-95",
+      "vin": "1HGBH41JXMN634698",
+      "make": "Volvo",
+      "model": "XC60",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל כהן",
+        "id": "D077",
+        "phone": "+972-52-5314243",
+        "email": "מיכל.כהן@company.co.il",
+        "license_number": 53382734
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 400,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "89-601-23",
+      "vin": "1HGBH41JXMN245899",
+      "make": "Lexus",
+      "model": "UX",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "נועה ישראלי",
+        "id": "D078",
+        "phone": "+972-53-7584440",
+        "email": "נועה.ישראלי@company.co.il",
+        "license_number": 47838682
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 392,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "35-853-70",
+      "vin": "1HGBH41JXMN765287",
+      "make": "Peugeot",
+      "model": "Partner",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל כהן",
+        "id": "D079",
+        "phone": "+972-59-9989857",
+        "email": "מיכל.כהן@company.co.il",
+        "license_number": 42481864
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 391,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "68-267-14",
+      "vin": "1HGBH41JXMN645514",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה גולדברג",
+        "id": "D080",
+        "phone": "+972-51-1795798",
+        "email": "שרה.גולדברג@company.co.il",
+        "license_number": 92831070
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 355,
+        "drivetrain": "4WD",
+        "color": "White",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "87-213-71",
+      "vin": "1HGBH41JXMN851637",
+      "make": "Honda",
+      "model": "Fit",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי כהן",
+        "id": "D081",
+        "phone": "+972-51-4139133",
+        "email": "יוסי.כהן@company.co.il",
+        "license_number": 19014594
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 280,
+        "drivetrain": "FWD",
+        "color": "Blue",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "42-267-28",
+      "vin": "1HGBH41JXMN197867",
+      "make": "Mazda",
+      "model": "MX-5",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון גולדברג",
+        "id": "D082",
+        "phone": "+972-50-8481283",
+        "email": "אלון.גולדברג@company.co.il",
+        "license_number": 17918083
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 186,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "27-235-91",
+      "vin": "1HGBH41JXMN706939",
+      "make": "Hyundai",
+      "model": "H1",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D084",
+        "phone": "+972-55-5786996",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 41343061
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 195,
+        "drivetrain": "AWD",
+        "color": "Red",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "41-734-53",
+      "vin": "1HGBH41JXMN847529",
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי ישראלי",
+        "id": "D085",
+        "phone": "+972-51-7958865",
+        "email": "יוסי.ישראלי@company.co.il",
+        "license_number": 12155196
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 270,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "55-952-77",
+      "vin": "1HGBH41JXMN602024",
+      "make": "Isuzu",
+      "model": "NQR",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל ישראלי",
+        "id": "D086",
+        "phone": "+972-51-3903962",
+        "email": "רחל.ישראלי@company.co.il",
+        "license_number": 95254826
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 156,
+        "drivetrain": "RWD",
+        "color": "Silver",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "90-980-87",
+      "vin": "1HGBH41JXMN595888",
+      "make": "Peugeot",
+      "model": "Expert",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון רוזן",
+        "id": "D088",
+        "phone": "+972-52-1535450",
+        "email": "אלון.רוזן@company.co.il",
+        "license_number": 22496268
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 357,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "19-105-70",
+      "vin": "1HGBH41JXMN345490",
+      "make": "Renault",
+      "model": "Kadjar",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה ישראלי",
+        "id": "D099",
+        "phone": "+972-53-7790956",
+        "email": "משה.ישראלי@company.co.il",
+        "license_number": 93272131
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 170,
+        "drivetrain": "AWD",
+        "color": "Blue",
+        "interior_color": "Beige"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "81-143-92",
+      "vin": "1HGBH41JXMN610719",
+      "make": "Suzuki",
+      "model": "Baleno",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל ישראלי",
+        "id": "D089",
+        "phone": "+972-57-8217598",
+        "email": "רחל.ישראלי@company.co.il",
+        "license_number": 33227516
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 224,
+        "drivetrain": "FWD",
+        "color": "Silver",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "61-337-76",
+      "vin": "1HGBH41JXMN809127",
+      "make": "Honda",
+      "model": "HR-V",
+      "year": 2022,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "משה לוי",
+        "id": "D091",
+        "phone": "+972-57-6800115",
+        "email": "משה.לוי@company.co.il",
+        "license_number": 72598697
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 303,
+        "drivetrain": "AWD",
+        "color": "White",
+        "interior_color": "Black Leather"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "16-676-75",
+      "vin": "1HGBH41JXMN939340",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "יוסי גולדברג",
+        "id": "D092",
+        "phone": "+972-57-8186024",
+        "email": "יוסי.גולדברג@company.co.il",
+        "license_number": 85076557
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 400,
+        "drivetrain": "FWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "79-955-40",
+      "vin": "1HGBH41JXMN187948",
+      "make": "Hyundai",
+      "model": "Kona",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דוד לוי",
+        "id": "D093",
+        "phone": "+972-56-4423080",
+        "email": "דוד.לוי@company.co.il",
+        "license_number": 56215099
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 195,
+        "drivetrain": "RWD",
+        "color": "Red",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "11-278-63",
+      "vin": "1HGBH41JXMN225419",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2024,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "רחל לוי",
+        "id": "D094",
+        "phone": "+972-59-9289911",
+        "email": "רחל.לוי@company.co.il",
+        "license_number": 44925066
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "1.6L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 382,
+        "drivetrain": "RWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "42-118-21",
+      "vin": "1HGBH41JXMN232264",
+      "make": "Audi",
+      "model": "Q7",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה כהן",
+        "id": "D095",
+        "phone": "+972-59-5793211",
+        "email": "שרה.כהן@company.co.il",
+        "license_number": 81292245
+      },
+      "specifications": {
+        "seating_capacity": 2,
+        "fuel_type": "gasoline",
+        "transmission": "automatic",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 243,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "56-843-52",
+      "vin": "1HGBH41JXMN147743",
+      "make": "Peugeot",
+      "model": "Expert",
+      "year": 2021,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "אלון ישראלי",
+        "id": "D096",
+        "phone": "+972-57-7274334",
+        "email": "אלון.ישראלי@company.co.il",
+        "license_number": 27235812
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 326,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "30-574-36",
+      "vin": "1HGBH41JXMN757067",
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "מיכל כהן",
+        "id": "D097",
+        "phone": "+972-52-5250285",
+        "email": "מיכל.כהן@company.co.il",
+        "license_number": 22150049
+      },
+      "specifications": {
+        "seating_capacity": 3,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "2.5L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 319,
+        "drivetrain": "FWD",
+        "color": "Gray",
+        "interior_color": "Black"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "54-403-35",
+      "vin": "1HGBH41JXMN261413",
+      "make": "Ford",
+      "model": "Focus",
+      "year": 2023,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "שרה כהן",
+        "id": "D098",
+        "phone": "+972-58-7390978",
+        "email": "שרה.כהן@company.co.il",
+        "license_number": 73032265
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "gasoline",
+        "transmission": "manual",
+        "engine_size": "1.4L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 187,
+        "drivetrain": "RWD",
+        "color": "White",
+        "interior_color": "Gray"
+      }
+    },
+    {
+      "id": "V000",
+      "license_plate": "30-493-35",
+      "vin": "1HGBH41JXMN965260",
+      "make": "Audi",
+      "model": "e-tron",
+      "year": 2020,
+      "type": "",
+      "category": "",
+      "status": "active",
+      "location": "",
+      "driver": {
+        "name": "דני לוי",
+        "id": "D220",
+        "phone": "+972-53-8844635",
+        "email": "דני.לוי@company.co.il",
+        "license_number": 90884238
+      },
+      "specifications": {
+        "seating_capacity": 5,
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "engine_size": "3.0L",
+        "fuel_economy_km_l": 0.0,
+        "horsepower": 234,
+        "drivetrain": "AWD",
+        "color": "Gray",
+        "interior_color": "Beige"
+      }
+    }
+  ]
+}

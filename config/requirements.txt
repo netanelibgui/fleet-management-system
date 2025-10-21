@@ -1,0 +1,47 @@
+# Fleet Management System Dependencies
+
+# Core Web Framework
+flask==3.0.3
+
+# Twilio WhatsApp/SMS API
+twilio==9.0.4
+
+# PDF Generation
+reportlab==4.0.9
+
+# Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# HTTP Requests and APIs
+requests==2.32.3
+
+# Note: Google API dependencies removed - not used in current implementation
+
+# Configuration and Environment
+python-dotenv==1.0.1
+
+# Date and Time Handling
+python-dateutil==2.9.0.post0
+pytz==2024.2
+
+# Logging and Monitoring
+loguru==0.7.2
+
+# File Type Detection
+python-magic==0.4.27
+
+# Testing Dependencies
+pytest==8.3.3
+pytest-mock==3.14.0
+
+# Development Dependencies
+black==24.8.0
+flake8==7.1.1
+
+# Security
+cryptography>=45.0.2
+
+# Excel File Processing
+openpyxl==3.1.2
+xlrd==2.0.1

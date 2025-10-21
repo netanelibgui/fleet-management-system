@@ -1,0 +1,21 @@
+{
+  "last_sync": "2025-10-19T18:42:08.779749",
+  "vehicle_hashes": {
+    "main_excel": "3290ad23f6e2b798dc6eb8b212d6c7b1"
+  },
+  "maintenance_hashes": {},
+  "sync_history": [
+    {
+      "timestamp": "2025-10-19T17:54:04.368529",
+      "action": "full_sync",
+      "vehicles_updated": 763,
+      "file_hash": "e1a789ab"
+    },
+    {
+      "timestamp": "2025-10-19T18:42:08.779749",
+      "action": "full_sync",
+      "vehicles_updated": 220,
+      "file_hash": "3290ad23"
+    }
+  ]
+}
