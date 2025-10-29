@@ -38,9 +38,28 @@ echo 🚀 Starting Fleet Management System...
 echo ========================================
 echo.
 
-echo "Starting system initialization..."
-echo "Please use option 1 to start the system"
+echo [1/4] Cleaning up existing processes...
+taskkill /f /im python.exe 2>nul
+taskkill /f /im ngrok.exe 2>nul
+timeout /t 2 >nul
+echo ✅ Cleanup complete
+echo.
 
+echo [2/4] Starting ngrok tunnel...
+start /B ngrok http 5000
+timeout /t 5 >nul
+echo ✅ Ngrok started
+echo.
+
+echo [3/4] Starting webhook server...
+start /B python src/services/simple_server.py
+timeout /t 3 >nul
+echo ✅ Server started
+echo.
+
+echo [4/4] Getting webhook URL...
+timeout /t 2 >nul
+python scripts/start_system.py
 echo.
 echo Press any key to return to menu...
 pause >nul
@@ -109,10 +128,9 @@ echo Stopping existing processes...
 taskkill /f /im python.exe 2>nul
 taskkill /f /im ngrok.exe 2>nul
 timeout /t 3 >nul
+echo ✅ Processes stopped
 echo.
-echo Starting system...
-echo "System startup functionality moved to option 1"
-goto menu
+goto start_system
 
 :view_logs
 cls
